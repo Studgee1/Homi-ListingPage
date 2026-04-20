@@ -1,0 +1,16 @@
+{
+  "name": "listingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Homi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "swiper": "^12.1.3"
+  }
+}
